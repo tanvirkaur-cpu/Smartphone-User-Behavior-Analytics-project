@@ -19,7 +19,4 @@ Key Features:
 
 Additionally, I also explored a basic frontend implementation using Flask and HTML as an extended enhancement.
 
-GitHub Repository:
-(Paste your GitHub link here)
-
 #DataAnalytics #Python #PowerBI #DataVisualization #FinalYearProject
