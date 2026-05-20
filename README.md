@@ -1,5 +1,4 @@
 # Smartphone User Behavior Analytics project
-Final Year Data Analytics Project using Python and Power BI
 Excited to share my final year Data Analytics project:
 “User Behavioural Analytics and Data Management System”
 
